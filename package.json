@@ -40,10 +40,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/naylachan/SIMI.git"
+    "url": "git+https://github.com/Rsuh-oip/SIMI.git"
   },
   "bugs": {
-    "url": "https://github.com/naylachan/SIMI/issues"
+    "url": "https://github.com/Rsuh-oip/rimuru/issues"
   },
-  "homepage": "https://github.com/naylachan/SIMI#readme"
+  "homepage": "https://github.com/Rsuh-oip/SIMI#readme"
 }
